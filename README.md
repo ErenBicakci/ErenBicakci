@@ -1,4 +1,4 @@
-<h1 align="center">🌝 Hi 👋, I'm I'm Eren Bıçakçı, a Java Developer 💻 from Turkey.</h1>
+<h1 align="center"> Hi 👋, I'm Eren Bıçakçı, a Java Developer 💻 from Turkey.</h1>
 <h3 align="center">👨🏽‍💻 I'm learning new things about spring boot microservices right now</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
